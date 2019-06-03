@@ -1,5 +1,5 @@
 # digital_counter
-https://youtu.be/yx-nrpZOzDI
+https://youtu.be/yx-nrpZOzDI  
 [![видео](https://img.youtube.com/vi/yx-nrpZOzDI/0.jpg)](https://www.youtube.com/watch?v=yx-nrpZOzDI)
 
 ## Двоичный счетчик:
